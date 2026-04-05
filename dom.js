@@ -7,7 +7,7 @@ function change() {
         // Jika iya (atau masih kosong), kita buat jadi Dark Mode
         body.style.backgroundColor = 'black';
         body.style.color = 'white';
-        button.style.backgroundColor = 'white';
+        button.style.backgroundColor = 'white'; 
         button.style.color = 'black';
     } else {
         // Jika ternyata sudah hitam, kita kembalikan ke Light Mode
